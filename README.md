@@ -16,7 +16,7 @@ A2) Put your answer here in the form of (X, Y, BitDepth).
 314,266,8
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
 A3) Put your answer here.  
-Phase
+DiffInt
 #### *Task 2:*
 Open the file [Fluorescence_composite.tif](image_files/Fluorescence_composite.tif) and convert all the signal in the red channel to the blue channel, export the file as a JPG and upload it to this repository in the [image_files](image_files) directory with the name "Composite.jpg".  
 
